@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9dbe90e5-08f1-4e1b-ba0c-ea4a8ecea064" name="convlstm" url="http://172.18.167.154">
+        <fileTransfer host="172.18.167.154" port="9989" rootFolder="/media/data/data_entry/zhongsx/code" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="9989" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
