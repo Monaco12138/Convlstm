@@ -14,7 +14,7 @@ written by 柴百里
 
 如图所示
 
-<img src="https://github.com/Monaco12138/my_convlstm/tree/master/photo/image-20210507202743689" alt="image-20210507202743689" style="zoom: 67%;" />
+<img src="https://github.com/Monaco12138/my_convlstm/photo/image-20210507202743689" alt="image-20210507202743689" style="zoom: 67%;" />
 
 
 
